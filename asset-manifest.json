@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/http//abdur-razzak2672.github.io/innovation/static/css/main.a617e044.chunk.css",
-    "main.js": "/http//abdur-razzak2672.github.io/innovation/static/js/main.e9bab965.chunk.js",
-    "main.js.map": "/http//abdur-razzak2672.github.io/innovation/static/js/main.e9bab965.chunk.js.map",
-    "runtime-main.js": "/http//abdur-razzak2672.github.io/innovation/static/js/runtime-main.d8f9d418.js",
-    "runtime-main.js.map": "/http//abdur-razzak2672.github.io/innovation/static/js/runtime-main.d8f9d418.js.map",
-    "static/js/2.afcd5738.chunk.js": "/http//abdur-razzak2672.github.io/innovation/static/js/2.afcd5738.chunk.js",
-    "static/js/2.afcd5738.chunk.js.map": "/http//abdur-razzak2672.github.io/innovation/static/js/2.afcd5738.chunk.js.map",
-    "static/js/3.77974888.chunk.js": "/http//abdur-razzak2672.github.io/innovation/static/js/3.77974888.chunk.js",
-    "static/js/3.77974888.chunk.js.map": "/http//abdur-razzak2672.github.io/innovation/static/js/3.77974888.chunk.js.map",
-    "index.html": "/http//abdur-razzak2672.github.io/innovation/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/http//abdur-razzak2672.github.io/innovation/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.afcd5738.chunk.js.LICENSE.txt": "/http//abdur-razzak2672.github.io/innovation/static/js/2.afcd5738.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/http//abdur-razzak2672.github.io/innovation/static/media/logo.6ce24c58.svg"
+    "main.css": "/innovation/static/css/main.a617e044.chunk.css",
+    "main.js": "/innovation/static/js/main.e9bab965.chunk.js",
+    "main.js.map": "/innovation/static/js/main.e9bab965.chunk.js.map",
+    "runtime-main.js": "/innovation/static/js/runtime-main.3e0d2651.js",
+    "runtime-main.js.map": "/innovation/static/js/runtime-main.3e0d2651.js.map",
+    "static/js/2.afcd5738.chunk.js": "/innovation/static/js/2.afcd5738.chunk.js",
+    "static/js/2.afcd5738.chunk.js.map": "/innovation/static/js/2.afcd5738.chunk.js.map",
+    "static/js/3.77974888.chunk.js": "/innovation/static/js/3.77974888.chunk.js",
+    "static/js/3.77974888.chunk.js.map": "/innovation/static/js/3.77974888.chunk.js.map",
+    "index.html": "/innovation/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/innovation/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.afcd5738.chunk.js.LICENSE.txt": "/innovation/static/js/2.afcd5738.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/innovation/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8f9d418.js",
+    "static/js/runtime-main.3e0d2651.js",
     "static/js/2.afcd5738.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e9bab965.chunk.js"
